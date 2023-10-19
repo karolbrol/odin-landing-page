@@ -136,3 +136,24 @@
     height: 160px;
     border-radius: .5em;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 5em 0 3em;
+}
+
+.quote {
+    font-size: 36px;
+    color:#1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 0 2em;
+}
+
+.quote-signature {
+    font-size: 28px;
+    color:#1F2937;
+    font-weight: 700;
+    text-align: right;
+    margin: 0 4em;
+}
